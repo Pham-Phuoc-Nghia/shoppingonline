@@ -3,8 +3,8 @@ const MyConstants = {
     DB_USER: 'vincent',
     DB_PASS: '000000nghia',
     DB_DATABASE: 'shoppingonline',
-    EMAIL_USER: '<phamphuocnghia21082002@gmail.com>',
-    EMAIL_PASS: '<fmwkuokajylmquqq>',
+    EMAIL_USER: 'phamphuocnghia21082002@gmail.com',
+    EMAIL_PASS: 'sjklmevaqlwclejo',
     JWT_SECRET: 'celica12345',
     JWT_EXPIRES: '3600000', // in milliseconds
   };
